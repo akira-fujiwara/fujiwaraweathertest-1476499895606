@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: testappl
-  name: testappl
+  host: fujiwaraweathertest
+  name: fujiwaraweathertest
   path: .
   domain: mybluemix.net
   instances: 1
